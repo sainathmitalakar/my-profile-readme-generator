@@ -3,7 +3,15 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-    {
+ {
+  "login": "sainathmitalakar",
+  "name": "Sainath Mitalakar",
+  "avatar_url": "https://avatars.githubusercontent.com/u/94965381?v=4",
+  "profile": "https://github.com/sainathmitalakar",
+  "contributions": ["code", "doc", "maintenance"]
+  }
+
+    { 
       "login": "sarbikbetal",
       "name": "Sarbik Betal",
       "avatar_url": "https://avatars2.githubusercontent.com/u/41508422?v=4",
